@@ -38,8 +38,7 @@
 ### 2. Ejecutar el script
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process
-.\fake_google.ps1
+& "C:\Users\HP\Downloads\powershell.ps1"
 ````
 
 ---
