@@ -48,7 +48,7 @@
 ```
 SearchGUI-PowerShell/
 │
-├── fake_google.ps1
+├── powershell.ps1
 └── README.md
 ```
 
