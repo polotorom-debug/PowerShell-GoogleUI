@@ -74,13 +74,3 @@ Este proyecto es una simulación visual creada con fines educativos y de prácti
 ## 🧠 Autor
 
 Proyecto experimental de interfaz gráfica en PowerShell
-
-
----
-
-Si quieres, en el siguiente paso te lo puedo dejar **nivel GitHub pro (tipo repo viral)** con:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- y :contentReference[oaicite:3]{index=3} 😈
-```
